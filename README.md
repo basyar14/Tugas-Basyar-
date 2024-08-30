@@ -1,4 +1,5 @@
-  ![Berbagai-Macam-Linux-OS](https://github.com/user-attachments/assets/c6e7bff5-e88d-420a-a085-1ac3b6047a3e)
+  
+![main-cover-image-5075f1ee-7467-47b3-9038-24a0a43fbbc4](https://github.com/user-attachments/assets/97cdd14f-147a-42a3-806f-afd095fc5332)
 
                                                                      Sejarah Linux
 Awal Mula Linux: Sebuah Proyek Pribadi
